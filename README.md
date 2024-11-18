@@ -3,7 +3,7 @@ By default, VirtualViewer will use its built-in sample handler. This example con
 
 ## Requirements
 * Java JDK 1.8 or newer
-    * VirtualViewer 5.3 and 5.4 require JDK 11
+    * PrizmDoc for Java 5.3 and 5.4 require JDK 11
 * [Apache Maven](https://maven.apache.org/)
     * To make development easier, the `mvn` command should be part of your system `PATH` variable.
     * On most Linux distros, this will be added automaticly if you install via the package manager.
