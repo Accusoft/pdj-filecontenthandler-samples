@@ -1,6 +1,5 @@
 /**
- * Copyright (C) 2002, 2003, 2021 by Snowbound Software Corp. All rights reserved.
- * This example should be compatible with VirtualViewer GA releases 5.3.0 - 5.6.0
+ * Copyright (C) 2024 Accusoft Corportation. All rights reserved.
  */
 package com.snowbound.virtualviewer.contenthandler.example;
 
@@ -52,7 +51,7 @@ import org.slf4j.Logger;
 
 /**
  * This is a sample content handler for demonstration and example purposes. It saves documents and sub-components to the
- * local file system. It should not be used for production instances of VirtualViewer.
+ * local file system. It should not be used for production instances of PrizmDoc for Java.
  */
 public class FileContentHandler
         implements VirtualViewerContentHandlerInterface, AvailableDocumentsInterface,
