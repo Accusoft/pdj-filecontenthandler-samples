@@ -1,5 +1,5 @@
 # PrizmDoc for Java Sample File Content Handler 
-By default, VirtualViewer will use its built-in sample handler. This example contains that code that you can build your handler from. This repository also contains a file content handler that utilizes S3. Please note that these are examples. 
+By default, PrizmDoc for Java will use its built-in sample handler. This example contains that code that you can build your handler from. This repository also contains a file content handler that utilizes S3. Please note that these are examples. 
 
 ## Requirements
 * Java JDK 1.8 or newer
